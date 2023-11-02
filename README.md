@@ -1,7 +1,7 @@
 # hello-world
 first repository
 
-##This is the *first* **edit**
+## This is the *first* **edit**
 ### **Cosas a aprender**
 1. usar github
 2. usar github desktop
